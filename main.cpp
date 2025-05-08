@@ -6,7 +6,7 @@
 #include <graphics.h>
 using namespace std;
 
-
+//changing some stuff for demo
 int main() {
 // CONSTANTS
 float elephant_height = 2.61;

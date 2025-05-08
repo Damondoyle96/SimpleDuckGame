@@ -6,6 +6,9 @@
 #include <graphics.h>
 using namespace std;
 
+//changing some stuff for demo
+
+// Change 2 for demo
 
 int main() {
 // CONSTANTS
